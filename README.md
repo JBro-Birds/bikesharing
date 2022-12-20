@@ -1,4 +1,4 @@
-# City Bikesharing - Analyzing NYC City Bikesharing Data to Pitch Bikesharing in Des Moines, Iowa. 
+# City Bike-Sharing:  Analyzing NYC City Bike-Sharing Data to Pitch Bike-Sharing in Des Moines, Iowa. 
 
 ## Overview of Project
 Kate suggests that you use Citi Bike data that has been released to the public for your analysis. You agree, but then remind her that you must be cautious when looking at the data, as it applies specifically to New York City—Des Moines is quite different!
