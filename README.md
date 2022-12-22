@@ -12,16 +12,16 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 ![NYC_Start_Map](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/NYC_Start_Map.png)
 
-![User Trips by Gender by Weekday](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/User Trips by Gender by Weekday.png)
+![Customer_Vs_Subscriber](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Customer_Vs_Subscriber.png)
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![Trip_Duration](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Trip_Duration.png)
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![Trip_Duration_byGender](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Trip_Duration_byGender.png)
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![Hours_Operations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Hours_Operations.png)
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![Hours_Operations_Gender](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Hours_Operations_Gender.png)
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![Number_Trips](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Number_Trips.png)
 
 ## Summary
