@@ -10,7 +10,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 ## Results
 
-![user_control_layers](https://raw.githubusercontent.com/JBro-Birds/Mapping_Earthquakes/master/support_images/user_control_layers.png)
+![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
 
 
 
