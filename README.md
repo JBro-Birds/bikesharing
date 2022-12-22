@@ -11,6 +11,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 ## Results
 
 ![NYC_Start_Map](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/NYC_Start_Map.png)
+The map of NYC starting locations shows the high density in Manhattan which is the core city hub.  Working commuters, students and tourists would be the main driver of the starting locations.
 
 ![Customer_Vs_Subscriber](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Customer_Vs_Subscriber.png)
 
