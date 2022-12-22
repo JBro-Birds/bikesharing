@@ -14,12 +14,15 @@ The purpose of this project is to convince investors that a bike-sharing program
 The map of NYC starting locations shows the high density in Manhattan which is the core city hub.  Working commuters, students and tourists would most likely be the main driver of the starting locations.
 
 
+
 ![Customer_Vs_Subscriber](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Customer_Vs_Subscriber.png)
 This chart shows the customer (individual sales) compared to the subscriber base by gender.  There are more subscribers than customers in the NYC bike-sharing program and males are the dominant subscriber base.  The subscriber option should be promoted in areas of high density of residents and commuters while the "customer" option would be more popular in tourist areas.
 
 
+
 ![Trip_Duration](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Trip_Duration.png)
 This chart clearly shows that most trip durations are less than an hour.  This result is expected since trip durations longer than an hour would drive most individuals to find motorised means of transportation.
+
 
 
 ![Trip_Duration_byGender](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Trip_Duration_byGender.png)
