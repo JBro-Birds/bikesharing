@@ -10,7 +10,7 @@ The purpose of this project is to convince investors that a bike-sharing program
 
 ## Results
 
-![Manhanttan_StartingLocations](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/Manhanttan_StartingLocations.png)
+![NYC_Start_Map](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/NYC_Start_Map.png)
 
 ![User Trips by Gender by Weekday](https://raw.githubusercontent.com/JBro-Birds/bikesharing/master/support_images/User Trips by Gender by Weekday.png)
 
