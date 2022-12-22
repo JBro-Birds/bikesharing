@@ -5,6 +5,8 @@ After traveling with my friend Kate to NYC this past August and having a blast r
 
 Kate suggested that I use Citi Bike data that has been released to the public for the analysis.  This sounds logical but we will also need to keep in mind that New York City is much different than Des Moines.  How we choose to analyze and present the Citi bike-sharing data will paint a solid picture, but we'll also need to relate the analyis to demographics, geography and weather of Des Moines. 
 
+The link to the Tableau workbook is: https://public.tableau.com/app/profile/jerry.brooke/viz/CitiBikeShare-Mod15Challenge/Bike-SharingPitch
+
 ### Purpose
 The purpose of this project is to convince investors that a bike-sharing program in Des Moines is a solid business proposal.  One of the key stakeholders has requested to see a bike trip analysis.  We have decided an effective tool to use for this pitch is Tableau and to create a Tableau story to present to the stakeholders.  Citi Bike-Sharing data for August 2019 will be used as the data set for analysis.  Pandas and python will be used to convert the data set "tripduration" attribute to the datetime format.
 
