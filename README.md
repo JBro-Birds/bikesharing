@@ -3,7 +3,7 @@
 ## Overview of Project
 After traveling with my friend Kate to NYC this past August and having a blast riding bikes sightseeing around the city using the Citi bike-sharing bikes we thought what a great program this would be in our town of Des Moines, Iowa.  As luck would have it we now have a scheduled presentation to make a pitch to investors as a key step to bring a similar bike-sharing program to Des Moines.  
 
-Kate suggested that I use Citi Bike data that has been released to the public for the analysis.  This sounds logical but we will also need to keep in mind that New York City is much different than Des Moines.  How we choose to analyze and present the Citi bike-sharing data will paint a solid picture, but we'll also need to relate the analyis to demographics, geography and weather of Des Moines. 
+Kate suggested that I use Citi Bike data that has been released to the public for the analysis and Tableau as the analytical and visual tool.  This sounds logical but we will also need to keep in mind that New York City is much different than Des Moines.  How we choose to analyze and present the Citi bike-sharing data will paint a solid picture, but we'll also need to relate the analyis to demographics, geography and weather of Des Moines. 
 
 The link to the Tableau workbook is: https://public.tableau.com/app/profile/jerry.brooke/viz/CitiBikeShare-Mod15Challenge/Bike-SharingPitch
 
